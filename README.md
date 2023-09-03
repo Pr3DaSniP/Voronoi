@@ -1,6 +1,5 @@
 # Voronoi discret
 
-![Release](https://img.shields.io/badge/Release-v1.0.0-blueviolet)
 ![Langage](https://img.shields.io/badge/Language-CPP-blue)
 ![Librairie](https://img.shields.io/badge/Librairie-OpenCV-green)
 
